@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AwesomeEmail.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LoginUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Login User Name</Value>
+    </Setting>
+    <Setting Name="LoginPw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Login Password</Value>
+    </Setting>
+    <Setting Name="PopServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server name</Value>
+    </Setting>
+    <Setting Name="PopPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">995</Value>
+    </Setting>
+    <Setting Name="SmtpServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="SmtpPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">465</Value>
+    </Setting>
+    <Setting Name="UsSsl" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
