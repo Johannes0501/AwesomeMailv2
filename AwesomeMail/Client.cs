@@ -38,7 +38,7 @@ namespace AwesomeEmail
             SkinHelper.InitSkinGallery(rgbiSkins, true);
         }
 
-        private void iNew_ItemClick(object sender, ItemClickEventArgs e)
+        private void Refresh_ItemClick(object sender, ItemClickEventArgs e)
         {
             ReceiveMails();
         }
@@ -272,6 +272,6 @@ namespace AwesomeEmail
         public static void NewMail()
         {
             Application.Run(new SendMail());
-        }
+        }        
     }
 }
